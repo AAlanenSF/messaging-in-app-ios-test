@@ -1,7 +1,5 @@
 {
-  "_comment": "TO DO: Replace this config file with a file from your Salesforce org.",
-  
-  "OrganizationId": "TBD",
-  "DeveloperName": "TBD",
-  "Url": "https://TBD.salesforce-scrt.com"
+  "OrganizationId": "00D7Z0000004rT5",
+  "DeveloperName": "ORS_FSEMessagingServiceDeployment",
+  "Url": "https://tetrapak--orqa.my.salesforce-scrt.com"
 }
